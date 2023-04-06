@@ -15,7 +15,7 @@ Bu uygulamayı klonlayın veya indirin.
 npm install komutunu kullanarak gerekli paketleri yükleyin.
 npm start komutu ile uygulamayı başlatın.
 Emülatör veya gerçek cihaz üzerinde uygulamayı görüntüleyin.
-##Teknolojiler
+## Teknolojiler
 React Native
 react-native-vector-icons
 
