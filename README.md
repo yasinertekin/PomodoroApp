@@ -21,7 +21,7 @@ react-native-vector-icons
 
 
 ##Ekran Görüntüleri
-![github](ahtapop.jpg)
+![github](./assets/pomodoro)
 
 
 ## Katkıda Bulunma
