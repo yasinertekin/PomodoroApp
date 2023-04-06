@@ -29,3 +29,5 @@ react-native-vector-icons
 
 ## Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen önce bir konu açın ve özellikleri veya hataları tartışın. Daha sonra, bir dal oluşturun ve değişikliklerinizi yapın. Son olarak, bir birleştirme isteği gönderin.
+
+denemesdfsd
