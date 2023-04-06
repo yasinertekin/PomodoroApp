@@ -20,7 +20,7 @@ React Native
 react-native-vector-icons
 
 
-##Ekran Görüntüleri
+## Ekran Görüntüleri
 ![github](/src/assets/Pomodoro.jpg)
 
 
