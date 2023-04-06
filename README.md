@@ -1,6 +1,6 @@
 
 <h1 align="center">Pomodoro Uygulaması </h1>
-Bu, Pomodoro tekniğini uygulayan bir React Native uygulamasıdır. Pomodoro tekniği, bir görev üzerinde yoğunlaşmak için belli aralıklarla çalışma ve mola sürelerini düzenli olarak takip eden bir zaman yönetimi tekniğidir.
+Pomodoro tekniğini uygulayan bir React Native uygulamasıdır. Pomodoro tekniği, bir görev üzerinde yoğunlaşmak için belli aralıklarla çalışma ve mola sürelerini düzenli olarak takip eden bir zaman yönetimi tekniğidir.
 
 ## Nasıl Kullanılır
 
