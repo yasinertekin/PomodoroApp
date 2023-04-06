@@ -21,7 +21,7 @@ react-native-vector-icons
 
 
 ##Ekran Görüntüleri
-![github](./assets/pomodoro)
+![github](../src/assets/Pomodoro.jpg)
 
 
 ## Katkıda Bulunma
